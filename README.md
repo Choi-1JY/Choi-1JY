@@ -1,4 +1,13 @@
-## Hi there 👋
+# 안녕하세요, 최준영입니다 👋
+
+컴퓨터공학을 전공하며 웹 개발과 프로그래밍을 공부하고 있습니다.
+
+### 🛠 Tech Stack
+- **Languages**: Python, C, JavaScript, HTML/CSS
+- **Interests**: Web Development, Embedded Systems, Data Science
+
+### 📫 Contact
+- Email: chlwnsdud123456@hufs.ac.kr
 
 <!--
 **Choi-1JY/Choi-1JY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
